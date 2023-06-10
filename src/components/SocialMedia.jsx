@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsTwitter, BsInstagram} from 'react-icons/bs'
+import { BsGithub, BsInstagram} from 'react-icons/bs'
 import { FaFacebook} from 'react-icons/fa'
 function SocialMedia() {
   return (
@@ -8,10 +8,10 @@ function SocialMedia() {
            <a href="https://www.instagram.com/istiak.minal/"> <BsInstagram/></a>
         </div>
         <div>
-           <a href=""><FaFacebook/></a>
+           <a href="https://www.facebook.com/minalislam.khondrokar"><FaFacebook/></a>
         </div>
         <div>
-           <a href=""> <BsTwitter/></a>
+           <a href="https://github.com/MINAL-AHMED"> <BsGithub/></a>
         </div>
     </div>
   )
