@@ -25,7 +25,7 @@ const Navbar = () => {
         ))}
       </ul>
 
-      <a download="" href={images.api} className="p-text">
+      <a download="" href={""} className="p-text">
         <button>Download CV</button>
       </a>
 
