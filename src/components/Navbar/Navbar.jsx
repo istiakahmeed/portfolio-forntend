@@ -25,7 +25,7 @@ const Navbar = () => {
         ))}
       </ul>
 
-      <a download="" href={""} className="p-text">
+      <a download="" href={images.Resume} className="p-text">
         <button>Download CV</button>
       </a>
 
