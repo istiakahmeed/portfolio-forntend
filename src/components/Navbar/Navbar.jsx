@@ -47,7 +47,7 @@ const Navbar = () => {
                 </li>
               ))}
               <li>
-                <a download={""} href="" className="p-text app__button">
+                <a download={""} href={images.Resume} className="p-text app__button">
                   Download CV
                 </a>
               </li>
